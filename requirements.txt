@@ -2,6 +2,8 @@ streamlit
 langchain
 langchain-core
 langchain-huggingface
+langchain-text-splitters
 huggingface_hub
 pandas
 python-dotenv
+sentence-transformers
