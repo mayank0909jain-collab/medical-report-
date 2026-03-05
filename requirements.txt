@@ -1,9 +1,11 @@
 streamlit
 langchain
 langchain-core
+langchain-community
 langchain-huggingface
 langchain-text-splitters
 huggingface_hub
-pandas
-python-dotenv
+faiss-cpu
+pypdf
 sentence-transformers
+python-dotenv
