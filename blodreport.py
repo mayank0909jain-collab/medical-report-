@@ -34,6 +34,8 @@ Analyze the following blood report carefully.
 Blood Report Data:
 {context}
 
+Give the result in **simple English**, easy to understand for a normal person.
+
 Give the result in this format:
 
 Possible Disease:
